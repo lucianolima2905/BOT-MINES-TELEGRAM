@@ -1,7 +1,7 @@
 # BOT-MINES-TELEGRAM
 Bot do jogo mines, envia os sinais diretamente no Telegram
 interessados favor chamar no WhatSapp 74 99944-5516 ou no telegram @sonycltda
-========================================================================
+OBS: Código é em python...
 # 𓊈𒆜 IMAGENS: 𒆜𓊉
 
 ![01](https://user-images.githubusercontent.com/65465300/237952989-9cd354cd-f132-4b45-8842-f6c2172d8d2f.jpg)
